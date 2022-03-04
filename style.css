@@ -106,3 +106,16 @@ footer ul {
     display: inline-block;
     width: 390px;
 }
+
+.reseaux-sociaux ul {
+    display: flex;
+    justify-content: center;
+}
+
+.reseaux-sociaux li {
+    margin-right: 20px;
+}
+
+.reseaux-sociaux img {
+    width: 50px;
+}
